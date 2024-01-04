@@ -19,5 +19,6 @@ public class A_count
 			}
 		}
 		System.out.println(count);
+		System.out.println();
 	}
 }
